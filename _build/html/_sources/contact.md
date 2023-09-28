@@ -6,8 +6,8 @@ Graduate Research Associate
 e-mail : dheeraj [dot] tommmandru [at] binghamton [dot] edu  
 
 # Mailing Address 
-Dheeraj Tommandru
-Watson Institute for Systems Excellence
-Biotechnology Building, Suite 1600  
+Dheeraj Tommandru  
+Watson Institute for Systems Excellence  
+Biotechnology Building, Suite 1600   
 65 Murray Hill Road    
 Vestal, NY 13850 
