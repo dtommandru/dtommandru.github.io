@@ -11,6 +11,3 @@ He has done his thesis on "Optimizing Overbooking for Outpatient Unit using Simu
 He is a core member and organizer of PyData NYC Meetups and Conferences since 2022. [PyData NYC](https://www.meetup.com/pydatanyc/)
 
 Specialties: Statistical Modelling, Machine Learning, Forecasting, Python, R, SQL, Cloud, Optimization.
-
-```{tableofcontents}
-```
